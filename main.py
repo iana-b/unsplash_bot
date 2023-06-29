@@ -1,6 +1,5 @@
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.types.input_file import InputFile
-import requests
 import os
 from dotenv import load_dotenv
 import httpx
